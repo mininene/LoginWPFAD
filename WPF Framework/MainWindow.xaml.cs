@@ -25,7 +25,6 @@ namespace WPF_Framework
         public MainWindow()
         {
             InitializeComponent();
-
         }
 
         private void BtnLogin_Click(object sender, RoutedEventArgs e)
