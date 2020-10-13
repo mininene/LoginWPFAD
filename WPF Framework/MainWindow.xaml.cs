@@ -29,6 +29,7 @@ namespace WPF_Framework
 
         private void BtnLogin_Click(object sender, RoutedEventArgs e)
         {
+
             string dominio = @"global.baxter.com";
             string usuario = txUsuario.Text.Trim();
             //string contraseña = txContraseña.Text.Trim();
